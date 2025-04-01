@@ -59,3 +59,5 @@ Licencia
 Nexus se distribuye bajo una licencia Creative Commons, permitiendo su libre uso y modificación con atribución adecuada.
 
 Cualquier modificación o sugerencia es bienvenida para mejorar la organización del proyecto.
+
+nuevo update con algo adiccional
