@@ -1,8 +1,9 @@
 {
   "name": "nexus",
   "version": "1.0.0",
-  "description": "Libraries:README - Nexus",
-  "main": "index.js",
+  "description": "App Nexus",
+  "main": "index.ts",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,10 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/jjcrse/NEXUS.git"
   },
-  "author": "",
+  "author": "Nexus",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jjcrse/NEXUS/issues"
   },
-  "homepage": "https://github.com/jjcrse/NEXUS#readme"
+  "homepage": "https://github.com/jjcrse/NEXUS#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
